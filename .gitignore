@@ -2,3 +2,4 @@
 # but we specifically include an exclusion for the frontend node_modules
 /frontend/node_modules/
 /backend/venv/
+/backend/__pycache__/
